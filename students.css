@@ -83,16 +83,13 @@ nav{
         padding-top: 20px;
         font-size: larger;
 
-        
-
-    }
+      }
     
     .head2{
         padding-top: 60px;
         font-size: larger;
 
-
-    }
+ }
     .head3{
         padding-top: 280px;
         font-size: larger;
@@ -104,8 +101,7 @@ nav{
         cursor: pointer;
         transition: 1s ease;
     
-        
-       }
+        }
        .dsa1{
         
         font-size: 20px;
