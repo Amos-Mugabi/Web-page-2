@@ -112,14 +112,12 @@ nav{
         }
        .pic2{
         float:left;
-        
-        border-radius: 35px;
+       border-radius: 35px;
         cursor: pointer;
         transition: 1s ease;
         display: flex;
         align-items: center;
-        
-        padding-top: 80px;
+       padding-top: 80px;
         }
      .cap2{
         margin-left: 50px;
